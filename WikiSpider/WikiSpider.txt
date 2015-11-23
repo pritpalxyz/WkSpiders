@@ -1,0 +1,12 @@
+url,information,additionalInfo,subHeading
+https://en.wikipedia.org/wiki/1960_in_Australia,Premier of New South WalesRobert Heffron,Premier of New South Wales  Robert Heffron,State Premiers
+https://en.wikipedia.org/wiki/1960_in_Australia,Premier of South AustraliaSir Thomas Playford,Premier of South Australia  Sir Thomas Playford,State Premiers
+https://en.wikipedia.org/wiki/1960_in_Australia,Premier of QueenslandFrank Nicklin,Premier of Queensland  Frank Nicklin,State Premiers
+https://en.wikipedia.org/wiki/1960_in_Australia,Premier of TasmaniaEric Reece,Premier of Tasmania  Eric Reece,State Premiers
+https://en.wikipedia.org/wiki/1960_in_Australia,Premier of Western AustraliaDavid Brand,Premier of Western Australia  David Brand,State Premiers
+https://en.wikipedia.org/wiki/1960_in_Australia,Premier of VictoriaHenry Bolte,Premier of Victoria  Henry Bolte,State Premiers
+https://en.wikipedia.org/wiki/1960_in_Australia,Governor of QueenslandSir Henry Abel Smith,Governor of Queensland  Sir Henry Abel Smith,State Governors
+https://en.wikipedia.org/wiki/1960_in_Australia,Governor of South AustraliaSir Robert George,Governor of South Australia  Sir Robert George (until 7 March),State Governors
+https://en.wikipedia.org/wiki/1960_in_Australia,Governor of TasmaniaThomas Corbett, 2nd Baron Rowallan,Governor of Tasmania  Thomas Corbett, 2nd Baron Rowallan,State Governors
+https://en.wikipedia.org/wiki/1960_in_Australia,Governor of VictoriaSir Dallas Brooks,Governor of Victoria  Sir Dallas Brooks,State Governors
+https://en.wikipedia.org/wiki/1960_in_Australia,Governor of Western AustraliaSir Charles Gairdner,Governor of Western Australia  Sir Charles Gairdner,State Governors
